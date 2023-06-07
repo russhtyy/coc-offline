@@ -18,16 +18,16 @@
 - Contact me if you have any question. ֆƈօʀք#0001.
 
 # Versions List
-- 5.2 - Will Add - Done\
-- 5.2.2 - Will Add - Not Done\
-- 5.2.4 - October 4, 2013 - Done\
-- 5.64 - November 12, 2013 - Not Done\
-- 5.113.2 - December 10, 2013 - Done\
-- 5.172 - February 3, 2014 - Not Done\
-- 6.56.1 - April 11, 2014 - Not Done\
-- 6.65.2 - April 21, 2014 - Not Done\
-- 6.186.3 - July 4, 2014 - Not Done\
-- 6.253.5 - September 17, 2014 - Done\
-- 6.322 - October 23, 2014 - Not Done\
-- 6.407.2 - December 17, 2014 - Done\
-- 7.1.1 - February 24, 2015 - Done
+- 5.2 - Will Add - ✅
+- 5.2.2 - Will Add - ❌
+- 5.2.4 - October 4, 2013 - ✅
+- 5.64 - November 12, 2013 - ❌
+- 5.113.2 - December 10, 2013 - ✅
+- 5.172 - February 3, 2014 - ❌
+- 6.56.1 - April 11, 2014 - ❌
+- 6.65.2 - April 21, 2014 - ❌
+- 6.186.3 - July 4, 2014 - ❌
+- 6.253.5 - September 17, 2014 - ✅
+- 6.322 - October 23, 2014 - ❌
+- 6.407.2 - December 17, 2014 - ✅
+- 7.1.1 - February 24, 2015 - ✅
