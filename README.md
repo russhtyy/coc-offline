@@ -7,6 +7,10 @@ Credits go to Reverse Engineers who did these apks and shared them, and also me 
 # Versions
 Clash of Clans, had offline mode implemented from version 5.2.0 to version 7.1.1.
 
+# Screenshots
+![alt_text](https://telegra.ph/file/09759efadf4930a5eb067.jpg)
+![alt_text](https://telegra.ph/file/3022cd9c160af6bd40e57.jpg)
+
 # Downloads
 [discord.gg/ExHqQZgAtA](discord.gg/ExHqQZgAtA)\
 The link will get updated if it will ever expire. Contact me if you have any question. ֆƈօʀք#0001
