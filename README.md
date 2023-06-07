@@ -2,7 +2,8 @@
 A Clash of Clans offline clients repository.
 
 # Credits
-Credits go to Reverse Engineers who did these apks and shared them, and also me for making few of them.
+- APK Credits go to Reverse Engineers who did these apks and shared them, and also me for making few of them.
+- Screenshots Credits go to @VitalikObject and @Solaree.
 
 # Versions
 Clash of Clans, had offline mode implemented from version 5.2.0 to version 7.1.1.
