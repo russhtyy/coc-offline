@@ -13,7 +13,7 @@
 ![alt_text](https://telegra.ph/file/3022cd9c160af6bd40e57.jpg)
 
 # Downloads
-- discord.gg/ExHqQZgAtA]
+- https://discord.gg/ExHqQZgAtA
 - The link will get updated if it will ever expire.
 - Contact me if you have any question. t.me/serio.
 
